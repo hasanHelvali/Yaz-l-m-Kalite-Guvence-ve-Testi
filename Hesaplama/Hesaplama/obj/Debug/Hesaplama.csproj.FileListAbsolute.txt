@@ -1,0 +1,6 @@
+C:\Users\Hasan Helvalı\Desktop\YKGT\Hesaplama\Hesaplama\bin\Debug\Hesaplama.dll
+C:\Users\Hasan Helvalı\Desktop\YKGT\Hesaplama\Hesaplama\bin\Debug\Hesaplama.pdb
+C:\Users\Hasan Helvalı\Desktop\YKGT\Hesaplama\Hesaplama\obj\Debug\Hesaplama.csproj.AssemblyReference.cache
+C:\Users\Hasan Helvalı\Desktop\YKGT\Hesaplama\Hesaplama\obj\Debug\Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Helvalı\Desktop\YKGT\Hesaplama\Hesaplama\obj\Debug\Hesaplama.dll
+C:\Users\Hasan Helvalı\Desktop\YKGT\Hesaplama\Hesaplama\obj\Debug\Hesaplama.pdb
